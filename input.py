@@ -1,0 +1,1 @@
+print("Kabhi Kabhi Aditi Zindagi mein yuhin koi axha lgta h ....... Kabhi Kabhi Aditi Zindagi mein yuhin koi apna lgta h")
